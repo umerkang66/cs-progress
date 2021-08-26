@@ -1,0 +1,8 @@
+1. Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by JONAS SCHMEDTMANN
+2. Udemy - The Complete JavaScript Course 2021: From Zero to Expert! by JONAS SCHMEDTMANN
+3. Udemy - Modern React with Redux by STEPHEN GRIDER
+4. Udemy - Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL) by ANDREI, YIHUA
+5. Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021 by JONAS SCHMEDTMANN
+6. Udemy - Master the Coding Interview: Data Structures + Algorithms by ANDREI NEAGIEO
+7. Udemy - Typescript: The Complete Developer's Guide by STEPHEN GRIDER
+8. Udemy - React and Typescript: Build a Portfolio Project by STEPHEN GRIDER
