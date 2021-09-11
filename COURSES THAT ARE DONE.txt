@@ -7,3 +7,4 @@
 7. Udemy - Typescript: The Complete Developer's Guide by STEPHEN GRIDER
 8. Udemy - React and Typescript: Build a Portfolio Project by STEPHEN GRIDER
 9. Udemy - Docker and Kubernetes: The Complete Developers Guide by STEPHEN GRIDER
+10. Udemy - MongoDB - The Complete Developer's Guide 2021 by MAXIMILIAN SCHWARZMULLER
