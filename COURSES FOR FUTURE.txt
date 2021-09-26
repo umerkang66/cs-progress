@@ -1,0 +1,50 @@
+A: JAVASCRIPT ECOSYSTEM
+	1: Udemy - The Modern Angular Bootcamp by STEPHEN GRIDER
+	2: Udemy - NestJS: The Complete Developer's Guide by STEPHEN GRIDER
+	3: Udemy - The Complete React Native by STEPHEN GRIDER
+	4: Udemy - Vue - The Complete Guide by Maximilian
+B: JAVA ECOSYSTEM
+	1: Udemy - The Java Design Patterns Course by TIM BUCHALKA
+	2: Udemy - Java SE 11 - Part 1 by TIM BUCHALKA
+	3: Udemy - Java SE 11 - Part 2 by TIM BUCHALKA
+	4: Udemy - Java Enterprise Edition 8 by TIM BUCHALKA
+	5: Udemy - Spring & Hibernate for Beginners by CHAD DARBY
+	6: Udemy - Spring Security by EASY BYTES
+	7: Udemy - Full Stack: Angular and Java Spring Boot by CHAD DARBY
+	8: Udemy - Master Microservices with Spring by IN28MINUTES OFFICIAL
+C: DATABASES
+	1: Udemy - SQL and PostgreSQL by STEPHEN GRIDER
+	2: Udemy - Database Manage System - Part 1 by VIGNESH SEKAR
+	3: Udemy - Database Management System - Part 2 by VIGNESH SEKAR
+	4: Udemy - Database Management System - Part 3 by VIGNESH SEKAR
+	5: Udemy - Database Management System - Part 4 by VIGNESH SEKAR
+	6: Udemy - Database Management System - Part 5 by VIGNESH SEKAR
+	7: Udemy - The Complete Developers Guide to MongoDB by STEPHEN GRIDER
+D: PYTHON ECOSYSTEM
+	1: Udemy - Python Django - The Practical Guide by Maximilian
+	2: Udemy - Machine Learning A-Z™: by KIRILL EREMENKO
+	3: Udemy - Master statistics & machine learning by MIKE X COHEN
+	4: Udemy - A deep understanding of deep learning by MIKE X COHEN
+E: COMPUTER SCIENCE FUNDAMENTALS
+	1: Udemy - The Complete Networking Fundamentals by DAVID BOMBAL
+	2: Udemy - Operating Systems from scratch - Part 1 by VIGNESH SEKAR
+	3: Udemy - Operating Systems from scratch - Part 2 by VIGNESH SEKAR
+	4: Udemy - Operating Systems Part 3 by VIGNESH SEKAR
+	5: Udemy - Operating Systems Final Part (4) VIGNESH SEKAR
+	6: Udemy - Computer Architecture & Organize Part 1 by VIGNESH SEKAR
+	7: Udemy - Computer Architect & Organize Part 2 by VIGNESH SEKAR
+	8: Udemy - Computer Organize & Architect - Part 3 by VIGNESH SEKAR
+F: C++ ECOSYSTEM
+	1: Udemy - Beginning C++ Programming by TIM BUCHALKA
+	2: Udemy - Data Structures & Algorithms using C and C++ by ABDUL BARI
+G: MATHS
+	1: Udemy - Master Math by Coding in Python by MIKE X COHEN
+	2: Udemy - Complete linear algebra by MIKE X COHEN
+	3: Udemy - Become a Geometry Master by KRISTA KING
+	4: Udemy - Become a Trigonometry & Precalculus Master by KRISTA KING
+	5: Udemy - Become a Calculus 1 Master by KRISTA KING
+	6: Udemy - Become a Calculus 2 Master by KRISTA KING
+	7: Udemy - Become a Calculus 3 Master by KRSITA KING
+H: DEVOPS
+	1: ZEROTOMASTERY: Web Security and Penetration Testing in 2021
+	2: ZEROTOMASTERY: DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin
