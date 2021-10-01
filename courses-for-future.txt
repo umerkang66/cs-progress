@@ -4,8 +4,7 @@ A: JAVASCRIPT ECOSYSTEM
 	3: Udemy - The Complete React Native by STEPHEN GRIDER
 	4: Udemy - Vue - The Complete Guide by Maximilian
 	5: Udemy - Ethereum and Solidity by STEPHEN GRIDER
-	6: Udemy - Complete Next.js with React & Node by FILIP JERGA
-	7: Udemy - Solidity & Ethereum in React (Next JS) by FILIP JERGA
+	6: Udemy - Solidity & Ethereum in React (Next JS) by FILIP JERGA
 B: JAVA ECOSYSTEM
 	1: Udemy - The Java Design Patterns Course by TIM BUCHALKA
 	2: Udemy - Java SE 11 - Part 1 by TIM BUCHALKA
