@@ -37,7 +37,7 @@ E: COMPUTER SCIENCE FUNDAMENTALS
 	7: Udemy - Computer Architect & Organize Part 2 by VIGNESH SEKAR
 	8: Udemy - Computer Organize & Architect - Part 3 by VIGNESH SEKAR
 F: C++ ECOSYSTEM
-	1: Udemy - Beginning C++ Programming by TIM BUCHALKA
+	1: Udemy - The C++ 20 Masterclass by DANIEL GAKWAYA
 	2: Udemy - Data Structures & Algorithms using C and C++ by ABDUL BARI
 G: MATHS
 	1: Udemy - Master Math by Coding in Python by MIKE X COHEN
@@ -50,3 +50,9 @@ G: MATHS
 H: DEVOPS
 	1: ZEROTOMASTERY: Web Security and Penetration Testing in 2021
 	2: ZEROTOMASTERY: DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin
+I: GO
+	1: UDEMY - Go: The Complete Developer's Guide (Golang) by STEPHEN GRIDER
+	2: UDEMY - Building Modern Web Applications with Go (Golang) by TREVOR SAWLER
+	3: UDEMY - Building Web Applications with Go - Intermediate Level by TREVOR SAWLER
+	4: UDEMY - Working with WebSockets in Go (Golang) by TREVOR SAWLER
+	5: UDEMY - Working with React and Go (Golang) by TREVOR SAWLER
