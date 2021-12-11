@@ -1,0 +1,2 @@
+Linux/Max -> /etc/hosts/
+Windows -> C:\Windows\System32\Drivers\etc\hosts
