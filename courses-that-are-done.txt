@@ -8,6 +8,4 @@
 8. Udemy - React and Typescript: Build a Portfolio Project by STEPHEN GRIDER
 9. Udemy - Docker and Kubernetes: The Complete Developers Guide by STEPHEN GRIDER
 10. Udemy - MongoDB - The Complete Developer's Guide 2021 by MAXIMILIAN SCHWARZMULLER
-11. Udemy - Next JS & Typescript with Shopify Integration - Full Guide by PHILIP JERGA
-12. Udemy - The Linux Command Line Bootcamp: Beginner To Power User by COLT STEELE
-13. Udemy - NextJS & React - The Complete Guide by MAXIMILIAN SCHWARZMULLER
+11. Udemy - The Linux Command Line Bootcamp: Beginner To Power User by COLT STEELE
