@@ -22,7 +22,6 @@ C: DATABASES
 	4: Udemy - Database Management System - Part 3 by VIGNESH SEKAR
 	5: Udemy - Database Management System - Part 4 by VIGNESH SEKAR
 	6: Udemy - Database Management System - Part 5 by VIGNESH SEKAR
-	7: Udemy - The Complete Developers Guide to MongoDB by STEPHEN GRIDER
 D: PYTHON ECOSYSTEM
 	1: Udemy - Python Django - The Practical Guide by Maximilian
 	2: Udemy - Machine Learning A-Z™: by KIRILL EREMENKO
