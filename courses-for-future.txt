@@ -6,15 +6,19 @@ A: JAVASCRIPT ECOSYSTEM
 	5: Udemy - Ethereum and Solidity by STEPHEN GRIDER
 	6: Udemy - Solidity & Ethereum in React (Next JS) by FILIP JERGA
 	7: Udemy - Socket.IO (with websockets) - the details. (socket io v2) by ROBERT BUNCH
+	8: Udemy - The Complete Junior to Senior Web Developer Bootcamp by ANDREI NEAGOIE
+	9: Udemy - The Git & Github Bootcamp by COLT STEELE
+	10: Udemy - Microservices with Node JS and React by STEPHEN GRIDER
+	11: Udemy - NestJS The Complete Developer's Guide by STEPHEN GRIDER
+	12: Udemy - Next JS & Typescript with Shopify Integration by FILIP JERGA
+	13: Udemy - Advanced CSS and SASS by JONAS SCHEMDTMANN
+	14: Udemy - Node JS Advanced Concepts by STEPHEN GRIDER
 B: JAVA ECOSYSTEM
-	1: Udemy - The Java Design Patterns Course by TIM BUCHALKA
-	2: Udemy - Java SE 11 - Part 1 by TIM BUCHALKA
-	3: Udemy - Java SE 11 - Part 2 by TIM BUCHALKA
-	4: Udemy - Java Enterprise Edition 8 by TIM BUCHALKA
-	5: Udemy - Spring & Hibernate for Beginners by CHAD DARBY
-	6: Udemy - Spring Security by EASY BYTES
-	7: Udemy - Full Stack: Angular and Java Spring Boot by CHAD DARBY
-	8: Udemy - Master Microservices with Spring by IN28MINUTES OFFICIAL
+	1: Udemy - Java In-Depth: Become a Complete Java Engineer by DHEERU MUNDLURU
+	2: Udemy - Spring & Hibernate for Beginners by CHAD DARBY
+	3: Udemy - Spring Security by EASY BYTES
+	4: Udemy - Full Stack: Angular and Java Spring Boot by CHAD DARBY
+	5: Udemy - Master Microservices with Spring by IN28MINUTES OFFICIAL
 C: DATABASES
 	1: Udemy - SQL and PostgreSQL by STEPHEN GRIDER
 	2: Udemy - Database Manage System - Part 1 by VIGNESH SEKAR
@@ -23,10 +27,11 @@ C: DATABASES
 	5: Udemy - Database Management System - Part 4 by VIGNESH SEKAR
 	6: Udemy - Database Management System - Part 5 by VIGNESH SEKAR
 D: PYTHON ECOSYSTEM
-	1: Udemy - Python Django - The Practical Guide by Maximilian
-	2: Udemy - Machine Learning A-Z™: by KIRILL EREMENKO
-	3: Udemy - Master statistics & machine learning by MIKE X COHEN
-	4: Udemy - A deep understanding of deep learning by MIKE X COHEN
+	1: Udemy - Complete Python Developer in 2021 by ANDREI NEAGOIE
+	2: Udemy - Python Django - The Practical Guide by Maximilian
+	3: Udemy - Machine Learning A-Z™: by KIRILL EREMENKO
+	4: Udemy - Master statistics & machine learning by MIKE X COHEN
+	5: Udemy - A deep understanding of deep learning by MIKE X COHEN
 E: COMPUTER SCIENCE FUNDAMENTALS
 	1: Udemy - The Complete Networking Fundamentals by DAVID BOMBAL
 	2: Udemy - Operating Systems from scratch - Part 1 by VIGNESH SEKAR
@@ -36,6 +41,7 @@ E: COMPUTER SCIENCE FUNDAMENTALS
 	6: Udemy - Computer Architecture & Organize Part 1 by VIGNESH SEKAR
 	7: Udemy - Computer Architect & Organize Part 2 by VIGNESH SEKAR
 	8: Udemy - Computer Organize & Architect - Part 3 by VIGNESH SEKAR
+	9: Udemy - Master the Coding Interview Big Tech (FAANG) Interiviews by ANDREI NEAGOIE
 F: C++ ECOSYSTEM
 	1: Udemy - The C++ 20 Masterclass by DANIEL GAKWAYA
 	2: Udemy - Data Structures & Algorithms using C and C++ by ABDUL BARI
@@ -49,7 +55,9 @@ G: MATHS
 	7: Udemy - Become a Calculus 3 Master by KRSITA KING
 H: DEVOPS
 	1: ZEROTOMASTERY: Web Security and Penetration Testing in 2021
-	2: ZEROTOMASTERY: DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin
+	2: YOUTUBE: DevOps Bootcamp by Kunal Kushwaha
+	3: Udemy - Docker & Kubernetes The Practical Guide by MAXIMILIAN SCHWARZMULLER
+	4: Udemy - Docker and Kubernetes The Complete Guide by STEPHEN GRIDER
 I: GO
 	1: UDEMY - Go: The Complete Developer's Guide (Golang) by STEPHEN GRIDER
 	2: UDEMY - Building Modern Web Applications with Go (Golang) by TREVOR SAWLER
