@@ -1,6 +1,6 @@
 Binary Search --> https://www.youtube.com/watch?v=qAnnEAHZawA
 Recursion     --> https://www.youtube.com/watch?v=UXKCcziRJzM
 Sorting       --> https://www.youtube.com/watch?v=tfjfaNs2zZQ
-Kunal kushwaha coures --> https://www.youtube.com/c/KunalKushwaha
+Kunal kushwaha course --> https://www.youtube.com/c/KunalKushwaha
 Yihua Zhang and Andrei Neagioe Udemy course
 AlgoExpert complete
