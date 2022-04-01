@@ -14,3 +14,4 @@
 14. Udemy - The Complete Developers Guide to MongoDB by STEPHEN GRIDER
 15. Udemy - Node with React Fullstack Web Development by STEPHEN GRIDER
 16. Udemy - Server Side Rendering with React and Redux by STEPHEN GRIDER
+17. Udemy - Complete Python Developer in 2021 Zero to Mastery by ANDREI NEAGOIE
