@@ -53,6 +53,7 @@ G: MATHS
 	5: Udemy - Become a Calculus 1 Master by KRISTA KING
 	6: Udemy - Become a Calculus 2 Master by KRISTA KING
 	7: Udemy - Become a Calculus 3 Master by KRSITA KING
+	8: Udemy - Become a Probability & Statistics Master by KRISTA KING
 H: DEVOPS
 	1: ZEROTOMASTERY: Web Security and Penetration Testing in 2021
 	2: YOUTUBE: DevOps Bootcamp by Kunal Kushwaha
