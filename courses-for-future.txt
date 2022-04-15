@@ -60,7 +60,8 @@ H: DEVOPS
 	3: Udemy - Docker & Kubernetes The Practical Guide by MAXIMILIAN SCHWARZMULLER
 	4: Udemy - Docker and Kubernetes The Complete Guide by STEPHEN GRIDER
 	5: Udemy - The Linux Command Line Bootcamp: Beginner To Power User by COLT STEELE
-	6: Udemy - DevOps Beginners to Advanced | Decoding DevOps with Projects by IMRAN TELI
+	6: Udemy - Bash Mastery: The Complete Guide to Bash Shell Scripting by ZIYAD YEHIA
+	7: Udemy - DevOps Beginners to Advanced | Decoding DevOps with Projects by IMRAN TELI
 I: GO
 	1: UDEMY - Go: The Complete Developer's Guide (Golang) by STEPHEN GRIDER
 	2: UDEMY - Building Modern Web Applications with Go (Golang) by TREVOR SAWLER
