@@ -10,61 +10,71 @@ A: JAVASCRIPT ECOSYSTEM
 	9: Udemy - The Git & Github Bootcamp by COLT STEELE
 	10: Udemy - Microservices with Node JS and React by STEPHEN GRIDER
 	11: Udemy - NestJS The Complete Developer's Guide by STEPHEN GRIDER
-	12: Udemy - Next JS & Typescript with Shopify Integration by FILIP JERGA
 	13: Udemy - Advanced CSS and SASS by JONAS SCHEMDTMANN
-	14: Udemy - Node JS Advanced Concepts by STEPHEN GRIDER
 B: JAVA ECOSYSTEM
 	1: Udemy - Java In-Depth: Become a Complete Java Engineer by DHEERU MUNDLURU
 	2: Udemy - Spring & Hibernate for Beginners by CHAD DARBY
 	3: Udemy - Spring Security by EASY BYTES
-	4: Udemy - Full Stack: Angular and Java Spring Boot by CHAD DARBY
-	5: Udemy - Master Microservices with Spring by IN28MINUTES OFFICIAL
+	4: Udemy - Master Java Web Services and RESTful API with Spring Boot by IN28MINUTES OFFICIAL
+	5: Udemy - Full Stack: Angular and Java Spring Boot by CHAD DARBY
+	6: Udemy - Master Microservices with Spring by IN28MINUTES OFFICIAL
 C: DATABASES
 	1: Udemy - SQL and PostgreSQL by STEPHEN GRIDER
-	2: Udemy - Database Manage System - Part 1 by VIGNESH SEKAR
+	2: Udemy - Database Management System - Part 1 by VIGNESH SEKAR
 	3: Udemy - Database Management System - Part 2 by VIGNESH SEKAR
 	4: Udemy - Database Management System - Part 3 by VIGNESH SEKAR
 	5: Udemy - Database Management System - Part 4 by VIGNESH SEKAR
 	6: Udemy - Database Management System - Part 5 by VIGNESH SEKAR
 D: PYTHON ECOSYSTEM
-	1: Udemy - Complete Python Developer in 2021 by ANDREI NEAGOIE
-	2: Udemy - Python Django - The Practical Guide by Maximilian
+	1: Udemy - Web Developer Bootcamp with Flask and Python by JOSE SALVATIERRA
+	2: Udemy - The Complete Python/PostgreSQL Course 2.0 by JOSE SALVATIERRA
+	3: Udemy - REST APIs with Flask and Python by JOSE SALVATIERRA
+	4: Udemy - Advanced REST APIs with Flask and Python by JOSE SALVATIERRA
+	5: Udemy - Automated Software Testing with Python by JOSE SALVATIERRA
 	3: Udemy - Machine Learning A-Z™: by KIRILL EREMENKO
 	4: Udemy - Master statistics & machine learning by MIKE X COHEN
 	5: Udemy - A deep understanding of deep learning by MIKE X COHEN
-E: COMPUTER SCIENCE FUNDAMENTALS
-	1: Udemy - The Complete Networking Fundamentals by DAVID BOMBAL
-	2: Udemy - Operating Systems from scratch - Part 1 by VIGNESH SEKAR
-	3: Udemy - Operating Systems from scratch - Part 2 by VIGNESH SEKAR
-	4: Udemy - Operating Systems Part 3 by VIGNESH SEKAR
-	5: Udemy - Operating Systems Final Part (4) VIGNESH SEKAR
-	6: Udemy - Computer Architecture & Organize Part 1 by VIGNESH SEKAR
-	7: Udemy - Computer Architect & Organize Part 2 by VIGNESH SEKAR
-	8: Udemy - Computer Organize & Architect - Part 3 by VIGNESH SEKAR
-	9: Udemy - Master the Coding Interview Big Tech (FAANG) Interiviews by ANDREI NEAGOIE
 F: C++ ECOSYSTEM
 	1: Udemy - The C++ 20 Masterclass by DANIEL GAKWAYA
+E: COMPUTER SCIENCE FUNDAMENTALS
+	1: OSSU - Computer Science
 	2: Udemy - Data Structures & Algorithms using C and C++ by ABDUL BARI
+	3: Udemy - Master the Coding Interview: Data Structures + Algorithms by ANDREI NEAGOIE
+	4: Udemy - JavaScript Algorithms and Data Structures Masterclass by COLT STEELE
+	5: Udemy - Master the Coding Interview Big Tech (FAANG) Interiviews by ANDREI NEAGOIE
+	6: Youtube - Kunal Kushwaha's DSA Course
+	7: Youtube - KN Academy DSA Resources
 G: MATHS
 	1: Udemy - Master Math by Coding in Python by MIKE X COHEN
-	2: Udemy - Complete linear algebra by MIKE X COHEN
-	3: Udemy - Become a Geometry Master by KRISTA KING
-	4: Udemy - Become a Trigonometry & Precalculus Master by KRISTA KING
-	5: Udemy - Become a Calculus 1 Master by KRISTA KING
-	6: Udemy - Become a Calculus 2 Master by KRISTA KING
-	7: Udemy - Become a Calculus 3 Master by KRSITA KING
-	8: Udemy - Become a Probability & Statistics Master by KRISTA KING
+	2: Udemy - Become an Algebra Master by KRISTA KING
+	3: Udemy - Become a Linear Algebra Master BY KRISTA KING
+	4: Udemy - Become a Geometry Master by KRISTA KING
+	5: Udemy - Become a Trigonometry & Precalculus Master by KRISTA KING
+	6: Udemy - Become a Calculus 1 Master by KRISTA KING
+	7: Udemy - Become a Calculus 2 Master by KRISTA KING
+	8: Udemy - Become a Calculus 3 Master by KRSITA KING
+	9: Udemy - Become a Probability & Statistics Master by KRISTA KING
+	10: Udemy - Complete linear algebra: theory and implementation in code by MIKE X COHEN
 H: DEVOPS
 	1: ZEROTOMASTERY: Web Security and Penetration Testing in 2021
 	2: YOUTUBE: DevOps Bootcamp by Kunal Kushwaha
-	3: Udemy - Docker & Kubernetes The Practical Guide by MAXIMILIAN SCHWARZMULLER
-	4: Udemy - Docker and Kubernetes The Complete Guide by STEPHEN GRIDER
-	5: Udemy - The Linux Command Line Bootcamp: Beginner To Power User by COLT STEELE
+	3: Udemy - DevOps Beginners to Advanced | Decoding DevOps with Projects by IMRAN TELI
+	4: Udemy - Docker & Kubernetes The Practical Guide by MAXIMILIAN SCHWARZMULLER
+	5: Udemy - Docker and Kubernetes The Complete Guide by STEPHEN GRIDER
 	6: Udemy - Bash Mastery: The Complete Guide to Bash Shell Scripting by ZIYAD YEHIA
-	7: Udemy - DevOps Beginners to Advanced | Decoding DevOps with Projects by IMRAN TELI
-I: GO
+I: TESTING
+	1: Udemy - The Complete 2022 Software Testing Bootcamp by Tarek Roshdy
+	2: Udemy - Selenium WebDriver with Java -Basics to Advanced+Frameworks by RAHUL SHETTY
+J: GO
 	1: UDEMY - Go: The Complete Developer's Guide (Golang) by STEPHEN GRIDER
 	2: UDEMY - Building Modern Web Applications with Go (Golang) by TREVOR SAWLER
 	3: UDEMY - Building Web Applications with Go - Intermediate Level by TREVOR SAWLER
 	4: UDEMY - Working with WebSockets in Go (Golang) by TREVOR SAWLER
 	5: UDEMY - Working with React and Go (Golang) by TREVOR SAWLER
+K: Machine Learning
+	0: ALL MATHS COURSES
+	1: 2022 Python Data Analysis & Visualization Masterclass by COLT STEELE
+	2: 2022 Python for Machine Learning & Data Science Masterclass by JOSE PORTILA
+	3: Complete Machine Learning & Data Science Bootcamp 2022 by ANDREI NEAGOIE, DANIEL BOURKE
+	4: Master statistics & machine learning: intuition, math, code by MIKE X COHEN
+	5: A deep understanding of deep learning (with Python intro) by MIKE X COHEN
