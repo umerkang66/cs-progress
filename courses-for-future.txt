@@ -54,7 +54,8 @@ G: MATHS
 	7: Udemy - Become a Calculus 2 Master by KRISTA KING
 	8: Udemy - Become a Calculus 3 Master by KRSITA KING
 	9: Udemy - Become a Probability & Statistics Master by KRISTA KING
-	10: Udemy - Complete linear algebra: theory and implementation in code by MIKE X COHEN
+	10: Udemy - Master Math by Coding in Python by MIKE X COHEN
+	11: Udemy - Complete linear algebra: theory and implementation in code by MIKE X COHEN
 H: DEVOPS
 	1: ZEROTOMASTERY: Web Security and Penetration Testing in 2021
 	2: YOUTUBE: DevOps Bootcamp by Kunal Kushwaha
