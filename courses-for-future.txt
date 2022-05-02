@@ -9,8 +9,7 @@ A: JAVASCRIPT ECOSYSTEM
 	8: Udemy - The Complete Junior to Senior Web Developer Bootcamp by ANDREI NEAGOIE
 	9: Udemy - The Git & Github Bootcamp by COLT STEELE
 	10: Udemy - Microservices with Node JS and React by STEPHEN GRIDER
-	11: Udemy - NestJS The Complete Developer's Guide by STEPHEN GRIDER
-	13: Udemy - Advanced CSS and SASS by JONAS SCHEMDTMANN
+	11: Udemy - Advanced CSS and SASS by JONAS SCHEMDTMANN
 B: JAVA ECOSYSTEM
 	1: Udemy - Java In-Depth: Become a Complete Java Engineer by DHEERU MUNDLURU
 	2: Udemy - Spring & Hibernate for Beginners by CHAD DARBY
