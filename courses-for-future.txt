@@ -30,9 +30,11 @@ D: PYTHON ECOSYSTEM
 	3: Udemy - REST APIs with Flask and Python by JOSE SALVATIERRA
 	4: Udemy - Advanced REST APIs with Flask and Python by JOSE SALVATIERRA
 	5: Udemy - Automated Software Testing with Python by JOSE SALVATIERRA
-	3: Udemy - Machine Learning A-Z™: by KIRILL EREMENKO
-	4: Udemy - Master statistics & machine learning by MIKE X COHEN
-	5: Udemy - A deep understanding of deep learning by MIKE X COHEN
+	6: Udemy - Master Python programming by solving scientific projects by MIKE X COHEN
+	7: Udemy - Python 3: Deep Dive (Part 1 - Functional) by FRED BAPTISTE
+	8: Udemy - Python 3: Deep Dive (Part 2 - Iteration, Generators) by FRED BAPTISTE
+	9: Udemy - Python 3: Deep Dive (Part 3 - Hash Maps) by FRED BAPTISTE
+	10: Udemy - Python 3: Deep Dive (Part 4 - OOP) by FRED BAPTISTE
 F: C++ ECOSYSTEM
 	1: Udemy - The C++ 20 Masterclass by DANIEL GAKWAYA
 E: COMPUTER SCIENCE FUNDAMENTALS
