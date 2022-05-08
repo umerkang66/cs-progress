@@ -73,10 +73,12 @@ J: GO
 	3: UDEMY - Building Web Applications with Go - Intermediate Level by TREVOR SAWLER
 	4: UDEMY - Working with WebSockets in Go (Golang) by TREVOR SAWLER
 	5: UDEMY - Working with React and Go (Golang) by TREVOR SAWLER
-K: Machine Learning
+K: Machine Learning and Data Science
 	0: ALL MATHS COURSES
-	1: 2022 Python Data Analysis & Visualization Masterclass by COLT STEELE
-	2: 2022 Python for Machine Learning & Data Science Masterclass by JOSE PORTILA
-	3: Complete Machine Learning & Data Science Bootcamp 2022 by ANDREI NEAGOIE, DANIEL BOURKE
-	4: Master statistics & machine learning: intuition, math, code by MIKE X COHEN
-	5: A deep understanding of deep learning (with Python intro) by MIKE X COHEN
+	1: UDEMY - 2022 Python Data Analysis & Visualization Masterclass by COLT STEELE
+	2: UDEMY - 2022 Python for Machine Learning & Data Science Masterclass by JOSE PORTILA
+	3: UDEMY - Complete Machine Learning & Data Science Bootcamp 2022 by ANDREI NEAGOIE, DANIEL BOURKE
+	4: UDEMY - Master statistics & machine learning: intuition, math, code by MIKE X COHEN
+	5: UDEMY - A deep understanding of deep learning (with Python intro) by MIKE X COHEN
+	6: COURSERA - Machine Learning by ANDREW NG
+	7: COURSERA - Deep Learning Specialization by DEEPLEARNING.AI
