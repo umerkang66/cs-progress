@@ -68,6 +68,7 @@ H: DEVOPS
 I: TESTING
 	1: Udemy - The Complete 2022 Software Testing Bootcamp by Tarek Roshdy
 	2: Udemy - Selenium WebDriver with Java -Basics to Advanced+Frameworks by RAHUL SHETTY
+	3: Udemy - Playwright JS Automation Testing from Scratch with Framework by RAHUL SHETTY
 J: GO
 	1: UDEMY - Go: The Complete Developer's Guide (Golang) by STEPHEN GRIDER
 	2: UDEMY - Building Modern Web Applications with Go (Golang) by TREVOR SAWLER
