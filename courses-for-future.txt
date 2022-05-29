@@ -62,9 +62,9 @@ H: DEVOPS
 	2: YOUTUBE: DevOps Bootcamp by Kunal Kushwaha
 	3: Udemy - DevOps Beginners to Advanced | Decoding DevOps with Projects by IMRAN TELI
 	4: Udemy - Docker & Kubernetes The Practical Guide by MAXIMILIAN SCHWARZMULLER
-	5: Udemy - Docker and Kubernetes The Complete Guide by STEPHEN GRIDER
-	6: Udemy - Bash Mastery: The Complete Guide to Bash Shell Scripting by ZIYAD YEHIA
-	7: Udemy - Mumshad Mannambeth Courses
+	5: Udemy - Bash Mastery: The Complete Guide to Bash Shell Scripting by ZIYAD YEHIA
+	6: Udemy - Mumshad Mannambeth Courses
+	7: Udemy - DevOps Projects | 20 Real Time DevOps Projects by IMRAN TELI
 I: TESTING
 	1: Udemy - The Complete 2022 Software Testing Bootcamp by Tarek Roshdy
 	2: Udemy - Selenium WebDriver with Java -Basics to Advanced+Frameworks by RAHUL SHETTY
