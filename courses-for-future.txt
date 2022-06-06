@@ -38,13 +38,16 @@ D: PYTHON ECOSYSTEM
 F: C++ ECOSYSTEM
 	1: Udemy - The C++ 20 Masterclass by DANIEL GAKWAYA
 E: COMPUTER SCIENCE FUNDAMENTALS
-	1: OSSU - Computer Science
-	2: Udemy - Data Structures & Algorithms using C and C++ by ABDUL BARI
-	3: Udemy - Master the Coding Interview: Data Structures + Algorithms by ANDREI NEAGOIE
-	4: Udemy - JavaScript Algorithms and Data Structures Masterclass by COLT STEELE
-	5: Udemy - Master the Coding Interview Big Tech (FAANG) Interiviews by ANDREI NEAGOIE
-	6: Youtube - Kunal Kushwaha's DSA Course
-	7: Youtube - KN Academy DSA Resources
+	1: Udemy - Data Structures & Algorithms using C and C++ by ABDUL BARI
+	2: Udemy - Master the Coding Interview: Data Structures + Algorithms by ANDREI NEAGOIE
+	3: Udemy - JavaScript Algorithms and Data Structures Masterclass by COLT STEELE
+	4: Udemy - Master the Coding Interview Big Tech (FAANG) Interiviews by ANDREI NEAGOIE
+	5: Youtube - Kunal Kushwaha's DSA Course
+	6: Youtube - KN Academy DSA Resources
+	7: OSSU - Computer Science
+	8: MIT - Introduction to Algorithms (after 'mathematics for computer science')
+	9: COURSERA - Algorithms, Part I
+	10: COURSERA - Algorithms, Part II
 G: MATHS
 	1: Udemy - Master Math by Coding in Python by MIKE X COHEN
 	2: Udemy - Become an Algebra Master by KRISTA KING
