@@ -48,6 +48,7 @@ E: COMPUTER SCIENCE FUNDAMENTALS
 	8: MIT - Introduction to Algorithms (after 'mathematics for computer science')
 	9: COURSERA - Algorithms, Part I
 	10: COURSERA - Algorithms, Part II
+	11: MIT - DESIGN AND ANALYSIS OF ALGORITHMS
 G: MATHS
 	1: Udemy - Master Math by Coding in Python by MIKE X COHEN
 	2: Udemy - Become an Algebra Master by KRISTA KING
