@@ -63,12 +63,11 @@ G: MATHS
 	11: Udemy - Complete linear algebra: theory and implementation in code by MIKE X COHEN
 H: DEVOPS
 	1: ZEROTOMASTERY: Web Security and Penetration Testing in 2021
-	2: YOUTUBE: DevOps Bootcamp by Kunal Kushwaha
-	3: Udemy - DevOps Beginners to Advanced | Decoding DevOps with Projects by IMRAN TELI
-	4: Udemy - Docker & Kubernetes The Practical Guide by MAXIMILIAN SCHWARZMULLER
-	5: Udemy - Bash Mastery: The Complete Guide to Bash Shell Scripting by ZIYAD YEHIA
-	6: Udemy - Mumshad Mannambeth Courses
-	7: Udemy - DevOps Projects | 20 Real Time DevOps Projects by IMRAN TELI
+	2: Udemy - DevOps Beginners to Advanced | Decoding DevOps with Projects by IMRAN TELI
+	3: Udemy - Docker & Kubernetes The Practical Guide by MAXIMILIAN SCHWARZMULLER
+	4: Udemy - Bash Mastery: The Complete Guide to Bash Shell Scripting by ZIYAD YEHIA
+	5: Udemy - Mumshad Mannambeth Courses
+	6: Udemy - DevOps Projects | 20 Real Time DevOps Projects by IMRAN TELI
 I: TESTING
 	1: Udemy - The Complete 2022 Software Testing Bootcamp by Tarek Roshdy
 	2: Udemy - Selenium WebDriver with Java -Basics to Advanced+Frameworks by RAHUL SHETTY
