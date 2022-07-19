@@ -17,6 +17,7 @@ B: JAVA ECOSYSTEM
 	4: Udemy - Master Java Web Services and RESTful API with Spring Boot by IN28MINUTES OFFICIAL
 	5: Udemy - Full Stack: Angular and Java Spring Boot by CHAD DARBY
 	6: Udemy - Master Microservices with Spring by IN28MINUTES OFFICIAL
+	7: Coursera - Java Programming and Software Engineering Fundamentals Specialization
 C: DATABASES
 	1: Udemy - SQL and PostgreSQL by STEPHEN GRIDER
 	2: Udemy - Database Management System - Part 1 by VIGNESH SEKAR
