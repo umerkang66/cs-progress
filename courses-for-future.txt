@@ -50,6 +50,7 @@ E: COMPUTER SCIENCE FUNDAMENTALS
 	9: COURSERA - Algorithms, Part I
 	10: COURSERA - Algorithms, Part II
 	11: MIT - DESIGN AND ANALYSIS OF ALGORITHMS
+	12: Udemy - Coding Minutes Courses
 G: MATHS
 	1: Udemy - Master Math by Coding in Python by MIKE X COHEN
 	2: Udemy - Become an Algebra Master by KRISTA KING
