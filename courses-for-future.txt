@@ -80,6 +80,7 @@ J: GO
 	3: UDEMY - Building Web Applications with Go - Intermediate Level by TREVOR SAWLER
 	4: UDEMY - Working with WebSockets in Go (Golang) by TREVOR SAWLER
 	5: UDEMY - Working with React and Go (Golang) by TREVOR SAWLER
+	6: Other TREVOR SAWLER courses
 K: Machine Learning and Data Science
 	0: ALL MATHS COURSES
 	1: UDEMY - 2022 Python Data Analysis & Visualization Masterclass by COLT STEELE
