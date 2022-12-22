@@ -20,3 +20,4 @@
 21. Udemy - STEPHEN GRIDER Udemy - Microservices with Node js and React [2022]
 22. Udemy - GHULAM ABBAS Udemy - Next.js - Build Full Stack Apps with Next.js using Redux
 23. Udemy - Remix - The Complete Guide by MAXIMILIAN SCHWARZMULLER
+24. Udemy - Docker & Kubernetes: The Practical Guide by MAXIMILIAN SCHWARZMULLER
