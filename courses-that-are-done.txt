@@ -21,3 +21,4 @@
 22. Udemy - GHULAM ABBAS Udemy - Next.js - Build Full Stack Apps with Next.js using Redux
 23. Udemy - Remix - The Complete Guide by MAXIMILIAN SCHWARZMULLER
 24. Udemy - Docker & Kubernetes: The Practical Guide by MAXIMILIAN SCHWARZMULLER
+25. Udemy - GraphQL with React: The Complete Developers Guide by STEPHEN GRIDER
